@@ -1,0 +1,13 @@
+{
+    "name": "medz/qq-emoicon",
+    "description": "QQ表情",
+    "type": "metapackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Seven",
+            "email": "lovevipdsw@outlook.com"
+        }
+    ],
+    "require": {}
+}

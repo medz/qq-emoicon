@@ -1,0 +1,28 @@
+{
+  "name": "qq-emoicon",
+  "version": "1.0.0",
+  "description": "qq表情",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medz/qq-emoicon.git"
+  },
+  "keywords": [
+    "qq",
+    "qq-emoicon",
+    "qq-face",
+    "QQ表情"
+  ],
+  "author": "Seven Du <lovevipdsw@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/medz/qq-emoicon/issues"
+  },
+  "homepage": "https://github.com/medz/qq-emoicon#readme",
+  "devDependencies": {
+    "webpack": "^1.13.2"
+  }
+}
