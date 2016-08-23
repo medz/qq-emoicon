@@ -9,5 +9,16 @@
             "email": "lovevipdsw@outlook.com"
         }
     ],
-    "require": {}
+    "autoload": {
+        "files": [
+            "bootstrap.php"
+        ],
+        "psr-4": {
+            "Medz\\Component\\QQEmoicon\\": "php/"
+        }
+    },
+    "require": {
+        "php": ">=5.3.9",
+        "symfony/finder": "^2.8|^3.1"
+    }
 }
